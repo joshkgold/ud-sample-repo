@@ -3,3 +3,5 @@
 ## A new entry
 
 ### Another entry from the central repo
+
+*Conflicting Change*
