@@ -4,4 +4,4 @@
 
 ### Another entry from the central repo
 
-*Conflicting Change*
+*Changes are resolved*
